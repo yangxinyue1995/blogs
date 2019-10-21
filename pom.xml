@@ -21,7 +21,7 @@
 		<!-- json -->
 		<fastjson-version>1.1.41</fastjson-version>
 		<mybatis-spring-version>1.1.1</mybatis-spring-version>
-		<httpclent.version>4.3</httpclent.version>
+		<httpclent.version>4.5.10</httpclent.version>
 		<dom4j.version>1.6.1</dom4j.version>
 		<jxl.version>2.6.12</jxl.version>
 		<memcachedClent.version>3.0.2</memcachedClent.version>
